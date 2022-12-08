@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adina
-- 👀 I’m interested Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me...
 
 <!---
